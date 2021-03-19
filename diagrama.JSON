@@ -1,0 +1,6 @@
+{ "signal": [
+    { "name": "LEVEL",         "wave": "10101" },
+    { "name": "LED",        "wave": "3535x", "data": ["ON", "OFF", "ON", "OFF"] },
+    { "name": "1 CICLO",     "wave": "0.1.0" }
+  ]
+}
